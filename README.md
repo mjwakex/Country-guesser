@@ -1,2 +1,2 @@
 # Country guesser
- Game that quizes you on you Geography knoweldge, wether it's captials or countries
+ Game that quizzes you on your Geography knowledge, whether it's capitals or countries
